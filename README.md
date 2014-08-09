@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-learning to create a repo with "hello-world"
+I'm Arcenis from the Bronx, NY... totally loving my foray into data science.
